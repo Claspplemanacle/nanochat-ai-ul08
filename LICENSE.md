@@ -1,4 +1,4 @@
-# 
+# Instantané nanochat extensions. Avec graphes de connaissances et raisonnement automatisé — optimisé pour des performances et une efficacité maximales.
 
 
 
